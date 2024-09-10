@@ -3,7 +3,7 @@
 
 Welcome to the Toddler 911! product suite—a comprehensive collection of services led by trained human caregivers who offer personalized support for parents. Whether you need advice on managing tantrums, establishing healthy habits, or preparing your child for bedtime, we’re here to help you navigate the challenges of parenting with confidence.
 
-![Toddler 911! Suite of Products](https://github.com/ruskibenya/toddler-911/blob/main/assets/images/products-suite.png)
+![Toddler 911! Suite of Products](https://raw.githubusercontent.com/ruskibenya/toddler-911/main/assets/images/products-suite.png)
 
 ---
 
