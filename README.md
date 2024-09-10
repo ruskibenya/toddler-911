@@ -10,7 +10,7 @@
 │   └── 📄 landing-page.webp<br>
 │   └── 📄 team-photo.webp<br>
 │   └── 📄 products-suite.webp<br>
-├── 📁 training_material<br>
+📁 training_material<br>
 │   ├── 📄 [Make a Snack](https://ruskibenya.github.io/toddler-911/training_material/make_snack)<br>
 │   └── 📄 [Clean Up Toys](https://ruskibenya.github.io/toddler-911/training_material/clean_up_toys)<br>
 │   └── 📄 [2024 Bathroom Training Update](https://ruskibenya.github.io/toddler-911/training_material/2024_Bathroom_Training.pdf)<br>
