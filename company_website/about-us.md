@@ -55,7 +55,7 @@ Our team is made up of childhood development experts, compassionate caregivers, 
 - **Head of Nanny Training & Magical Solutions:** Mary Poppins – An early childhood educator with over 10 years of experience in teaching and training caregivers.
 - **Chief Parent Support Officer:** Big Bird – Expert in creating safe, reliable platforms that connect families with Toddler 911!’s trained caregivers.
 
-![Toddler 911! Team Photo](https://github.com/ruskibenya/toddler-911/blob/main/assets/images/team-photo.webp)
+![Toddler 911! Team Photo](https://raw.githubusercontent.com/ruskibenya/toddler-911/main/assets/images/team-photo.webp)
 
 ---
 
