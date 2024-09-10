@@ -1,6 +1,6 @@
 # toddler-911
 
-Toddler 911! Company Website:
+## Toddler 911! Company Website and Training Materials
 
 📁 company_website<br>
 ├── 📄 [Landing Page](https://ruskibenya.github.io/toddler-911/company_website/landing-page)<br>
