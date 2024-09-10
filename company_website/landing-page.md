@@ -7,7 +7,7 @@
 [Get Started Today](#)  
 [Learn More](#)
 
-![Toddler 911! Home](https://github.com/ruskibenya/toddler-911/blob/main/assets/images/landing-page.webp)
+![Toddler 911! Home](https://raw.githubusercontent.com/ruskibenya/toddler-911/main/assets/images/landing-page.webp)
 
 ---
 
